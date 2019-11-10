@@ -45,45 +45,40 @@
 					<div id="main">
 
 						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">And this is a<br />
-									massive headline</a></h2>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
-								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
-								<ul class="actions special">
-									<li><a href="#" class="button large">Full Story</a></li>
-								</ul>
-							</article>
 
 						<!-- Posts -->
 							<section class="posts">
 								<article>
 									<header>
-										<span class="date">April 24, 2017</span>
-										<h2><a href="#">Sed magna<br />
-										ipsum faucibus</a></h2>
+										<span class="date">Октябрь 26, 2019</span>
+										<h2><a href="About.html">О нас</a></h2>
+										<p>Мы изучаем устройство мира, чтобы иметь возможность изменять реальность.</p>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="About.html" class="image main"><img src="images/about.jpg" alt="Мы изучаем устройство мира, чтобы иметь возможность изменять реальность" /></a>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										<li><a href="About.html" class="button large">Прочитать</a></li>
+									</ul>
+								</article>	
+								<article>
+									<header>
+										<span class="date">Октябрь 27, 2019</span>
+										<h2><a href="Stages.html">Этапы подтверждения</h1>
+										<p>На пути к практическому применению исследование проходит проверку позволяющую избежать ошибок.</p>
+									</header>
+									<a href="Stages.html" class="image fit"><img src="images/stages.jpg" alt="На пути к практическому применению исследование проходит проверку" /></a>									
+									<ul class="actions special">
+										<li><a href="Stages.html" class="button">Прочитать</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<span class="date">April 22, 2017</span>
-										<h2><a href="#">Primis eget<br />
-										imperdiet lorem</a></h2>
+										<span class="date">Октябрь 28, 2019</span>
+										<h2><a href="WhyPineal.html">Почему мы так назвали проект</h1>
+									<p>Pineal (шишковидная железа) - дирижёр и тайна</p>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="WhyPineal.html" class="image fit"><img src="images/whypineal.jpg" alt="Почему мы назвали проект pineal (шишковидная железа)" /></a>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										<li><a href="WhyPineal.html" class="button">Прочитать</a></li>
 									</ul>
 								</article>
 								<article>
