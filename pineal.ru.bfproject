@@ -1,7 +1,7 @@
 c2e.convert_special: 0
 e2c.convert_num: 0
-openfiles: /home/da3/tema/dekarh.github.io/my.html:391:0:0:
-openfiles: /home/da3/tema/dekarh.github.io/index.html:198:0:1:
+openfiles: /home/da3/tema/dekarh.github.io/my.html:7568:7274:1:
+openfiles: /home/da3/tema/dekarh.github.io/index.html:259:0:0:
 snr_recursion_level: 5
 convertcolumn_horizontally: 0
 adv_open_matchname: 0
@@ -61,6 +61,7 @@ e2c.convert_special: 0
 autoindent: 1
 adv_open_recursive: 0
 recent_dirs: file:///home/da3
+recent_dirs: file:///home/da3/tema/dekarh.github.io/images
 recent_dirs: file:///home/da3/tema/dekarh.github.io
 filegloblist: *.txt
 filegloblist: *.shtml
