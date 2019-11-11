@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Знания, изменяющие мир - Знания: Первопричины</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Знания, изменяющие мир</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Принципы</a></li>
+							<li><a href="knowledge.html">Знания</a></li>
+							<li class="active"><a href="sciencE.html">Знания: Первопричины</a></li>
+							<li><a href="conduct.html">Сопровождение</a></li>							
+						</ul>
+						<ul class="icons">
+							<li><a href="https://pineal-ru.livejournal.com" class="icon brands fa-wpforms"><span class="label">Livejournal</span></a></li>							
+							<li><a href="https://www.instagram.com/pineal_ru" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>							
+							<li><a href="tg://resolve?domain=pineal_ru" class="icon brands fa-telegram"><span class="label">Telegram</span></a></li>							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<span class="date">Ноябрь 10, 2019</span>
+									<h1>Первопричины</h1>
+									<p>Если нет устранения первопричин, то и вылеченный до идеального состояния человек останется в опасности. Какая разница, болезнь это будет или упавший с неба кирпич?</p>
+								</header>
+								<div class="image main"><img src="images/science.jpg" alt="" /></div>
+								<p>								
+								 Вечная молодость, лекарство от тяжелых болезней и т.п.
+								 <br />✨✨✨
+								 <br />Науку не остановишь, ученые будут искать и находить лекарства, способы лечения и восстановления.
+								 <br />🔬
+								 <br />Вплоть до суперрадикального прямого ремонта ДНК, который уже скоро сможет лечить и восстанавливать любые нарушения в организме на молекулярном уровне.
+								 <br />🔨
+								 <br />И это правильно, никого не надо останавливать, просто нужен всесторонний подход, понимание равновесия и наличия первопричин болезни или нарушения.
+								 <br />🌀
+								 <br />Если нет устранения первопричин, то и вылеченный до идеального состояния человек останется в опасности. Какая разница, болезнь это будет или упавший с неба кирпич?
+								 <br />🌀
+								 <br />Может быть из-за возросшей эффективности лечения, катастроф по всему миру становится больше? Просто вариантов отработки первопричин все меньше и меньше?
+								 <br />🌀
+								 <br />Кстати, человек, который помог другому &quot;выздороветь&quot; в нарушение его первопричин может получить часть долга &quot;выздоровевшего&quot;.
+								 <br />💥
+								 <br />Поэтому в наших <a href="About.html">принципах</a>) есть пункт &quot;...подтвердить отсутствие нарушения равновесия всех участвующих в процессе сил&quot;, потому что в нашей работе силы задействованы огромные, и, если что не так, расплачиваться придется не одну жизнь.
+								</p>
+							</section>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<!-- section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+
+						</section -->
+						<section>
+							<section>
+								<h3>Email: <a href="mailto:pineal2power@gmail.com">pineal2power@gmail.com</a></h3>						
+							</section>
+						</section>
+						<section class="split contact">
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://pineal-ru.livejournal.com/" class="icon brands alt fa-wpforms"><span class="label">Livejournal</span></a></li>
+									<li><a href="https://www.instagram.com/pineal_ru" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="tg://resolve?domain=pineal_ru" class="icon brands alt fa-telegram"><span class="label">Telegram</span></a></li>									
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; pineal.ru</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
