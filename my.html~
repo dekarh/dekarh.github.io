@@ -54,15 +54,15 @@
 										<h2><a href="About.html">О нас</a></h2>
 										<p>Мы изучаем устройство мира, чтобы иметь возможность изменять реальность.</p>
 									</header>
-									<a href="About.html" class="image main"><img src="images/about.jpg" alt="Мы изучаем устройство мира, чтобы иметь возможность изменять реальность" /></a>
+									<a href="About.html" class="image fit"><img src="images/about.jpg" alt="Мы изучаем устройство мира, чтобы иметь возможность изменять реальность" /></a>
 									<ul class="actions special">
-										<li><a href="About.html" class="button large">Прочитать</a></li>
+										<li><a href="About.html" class="button">Прочитать</a></li>
 									</ul>
 								</article>	
 								<article>
 									<header>
 										<span class="date">Октябрь 27, 2019</span>
-										<h2><a href="Stages.html">Этапы подтверждения</h1>
+										<h2><a href="Stages.html">Этапы подтверждения</a></h2>
 										<p>На пути к практическому применению исследование проходит проверку позволяющую избежать ошибок.</p>
 									</header>
 									<a href="Stages.html" class="image fit"><img src="images/stages.jpg" alt="На пути к практическому применению исследование проходит проверку" /></a>									
@@ -73,8 +73,8 @@
 								<article>
 									<header>
 										<span class="date">Октябрь 28, 2019</span>
-										<h2><a href="WhyPineal.html">Почему мы так назвали проект</h1>
-									<p>Pineal (шишковидная железа) - дирижёр и тайна</p>
+										<h2><a href="WhyPineal.html">Почему мы так назвали проект</a></h2>
+										<p>Pineal (шишковидная железа) - дирижёр и тайна</p>
 									</header>
 									<a href="WhyPineal.html" class="image fit"><img src="images/whypineal.jpg" alt="Почему мы назвали проект pineal (шишковидная железа)" /></a>
 									<ul class="actions special">
@@ -83,50 +83,13 @@
 								</article>
 								<article>
 									<header>
-										<span class="date">April 18, 2017</span>
-										<h2><a href="#">Ante mattis<br />
-										interdum dolor</a></h2>
+										<span class="date">Ноябрь 6, 2019</span>
+										<h2><a href="Source.html">Наш источник знаний</a></h2>
+										<p>Чтобы понять что-то безграничное надо использовать безграничный источник знаний. Мы нашли его</p>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="Source.html" class="image fit"><img src="images/source.jpg" alt="Наш источник знаний" /></a>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">April 14, 2017</span>
-										<h2><a href="#">Tempus sed<br />
-										nulla imperdiet</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">April 11, 2017</span>
-										<h2><a href="#">Odio magna<br />
-										sed consectetur</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">April 7, 2017</span>
-										<h2><a href="#">Augue lorem<br />
-										primis vestibulum</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										<li><a href="Source.html" class="button">Прочитать</a></li>
 									</ul>
 								</article>
 							</section>
