@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Знания, изменяющие мир - Принципы</title>
+		<title>Пробуждение кундалини для людей, находящихся в развитии</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -14,11 +14,8 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Знания,<br />
-						Изменяющие<br />
-						Мир</h1> 
-						<p>Объективность источника знаний и источника изменения реальности<br />
-						подтверждена в Российской Академии Наук</p>
+						<h1>Пробуждение кундалини</h1> 
+						<p>Свяжитесь любым, удобным для Вас способом 👇</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -26,20 +23,18 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">Знания, изменяющие мир</a>
+						<a href="index.html" class="logo">Пробуждение кундалини (пишите👇)</a>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">Принципы</a></li>
-							<li><a href="knowledge.html">Знания</a></li>							
-							<li><a href="conduct.html">Сопровождение</a></li>							
+							<li class="active"><a href="#">Для людей, находящихся в развитии</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://pineal-ru.livejournal.com" class="icon brands fa-wpforms"><span class="label">Livejournal</span></a></li>							
 							<li><a href="https://www.instagram.com/pineal_ru" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>							
-							<li><a href="tg://resolve?domain=pineal_ru" class="icon brands fa-telegram"><span class="label">Telegram</span></a></li>							
+							<li><a href="tg://resolve?domain=pineal_ru" class="icon brands fa-telegram"><span class="label">Написать/Позвонить в Telegram</span></a></li>							
 						</ul>
 					</nav>
 
@@ -51,52 +46,14 @@
 						<!-- Posts -->
 							<section class="posts">
 								<article>
-									<header>
-										<span class="date">Октябрь 26, 2019</span>
-										<h2><a href="About.html">О нас</a></h2>
-										<p>Мы изучаем устройство мира, чтобы иметь возможность изменять реальность.</p>
-									</header>
-									<a href="About.html" class="image fit"><img src="images/about.jpg" alt="Мы изучаем устройство мира, чтобы иметь возможность изменять реальность" /></a>
-									<ul class="actions special">
-										<li><a href="About.html" class="button">Прочитать</a></li>
-									</ul>
+									<img class="image fit" src="images/about.jpg" alt="Мы изучаем устройство мира, чтобы иметь возможность изменять реальность" />
 								</article>	
 								<article>
-									<header>
-										<span class="date">Октябрь 27, 2019</span>
-										<h2><a href="Stages.html">Этапы подтверждения</a></h2>
-										<p>На пути к практическому применению исследование проходит проверку позволяющую избежать ошибок.</p>
-									</header>
-									<a href="Stages.html" class="image fit"><img src="images/stages.jpg" alt="На пути к практическому применению исследование проходит проверку" /></a>									
-									<ul class="actions special">
-										<li><a href="Stages.html" class="button">Прочитать</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">Октябрь 28, 2019</span>
-										<h2><a href="WhyPineal.html">Почему мы так назвали проект</a></h2>
-										<p>Pineal (шишковидная железа) - дирижёр и тайна</p>
-									</header>
-									<a href="WhyPineal.html" class="image fit"><img src="images/whypineal.jpg" alt="Почему мы назвали проект pineal (шишковидная железа)" /></a>
-									<ul class="actions special">
-										<li><a href="WhyPineal.html" class="button">Прочитать</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">Ноябрь 6, 2019</span>
-										<h2><a href="Source.html">Наш источник знаний</a></h2>
-										<p>Чтобы понять что-то безграничное надо использовать безграничный источник знаний. Мы нашли его</p>
-									</header>
-									<a href="Source.html" class="image fit"><img src="images/source.jpg" alt="Наш источник знаний" /></a>
-									<ul class="actions special">
-										<li><a href="Source.html" class="button">Прочитать</a></li>
-									</ul>
+									<img class="image fit" src="images/stages.jpg" alt="На пути к практическому применению исследование проходит проверку" />									
 								</article>
 							</section>
 
-						<!-- Footer 
+						<!-- Постраничник (пока выключен) 
 							<footer>
 								<div class="pagination">
 									<a href="#" class="previous">Prev</a>
@@ -111,6 +68,7 @@
 								</div>
 							</footer>
 						-->
+						
 
 					</div>
 
@@ -158,7 +116,7 @@
 								<ul class="icons alt">
 									<li><a href="https://pineal-ru.livejournal.com/" class="icon brands alt fa-wpforms"><span class="label">Livejournal</span></a></li>
 									<li><a href="https://www.instagram.com/pineal_ru" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="tg://resolve?domain=pineal_ru" class="icon brands alt fa-telegram"><span class="label">Telegram</span></a></li>									
+									<li><a href="tg://resolve?domain=pineal_ru" class="icon brands alt fa-telegram"><span class="label">Написать/Позвонить в Telegram</span></a></li>									
 								</ul>
 							</section>
 						</section>
