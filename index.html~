@@ -53,7 +53,13 @@
 								<article>
 									<img class="image fit" src="images/02site.jpg" />									
 								</article>
-							</section>
+								<article>
+									<img class="image fit" src="images/03site.jpg" />
+								</article>	
+								<article>
+									<img class="image fit" src="images/04site.jpg" />									
+								</article>
+`							</section>
 
 						<!-- Постраничник (пока выключен) 
 							<footer>
